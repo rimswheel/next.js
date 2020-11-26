@@ -5,7 +5,7 @@ export default function Home() {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href=""V-CAR</a>
         </h1>
 
         <p className={styles.description}>
@@ -38,7 +38,7 @@ export default function Home() {
           >
             <h3>Deploy &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              eploy your Next.js site to a public URL with Vercel.
             </p>
           </a>
         </div>
